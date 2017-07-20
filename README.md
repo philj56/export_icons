@@ -4,7 +4,7 @@ unity\_icon\_export
 ## Introduction
 
 `unity_icon_export` is a fork of [export_icons](https://github.com/ksoichiro/export_icons), 
-using [Inkscape](http://inkscape.org/) for [Unity](https://unity3d.com).
+using [Inkscape](http://inkscape.org/) to export icons for [Unity](https://unity3d.com).
 
 Execute
 
