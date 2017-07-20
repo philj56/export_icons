@@ -10,7 +10,7 @@ Execute
 
     unity_icon_export -i Icon.svg -o output
 
-and the several sizes of icon are created like the following:
+and several sizes of icon are created like the following:
 
     output/Android/192.png
     output/Android/144.png
