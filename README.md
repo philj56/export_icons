@@ -19,6 +19,9 @@ and several sizes of icon are created like the following:
     output/iOS/180.png
     output/iOS/167.png
     :
+    output/Standalone/1024.png
+    output/Standalone/512.png
+    :
 
 ## Requirements
 
